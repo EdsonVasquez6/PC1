@@ -1,0 +1,39 @@
+#cabeza{
+
+text-align: end;
+background-color: black;
+color: white;
+}
+
+
+
+.arrow {
+border: solid black;
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 3px;
+transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+margin-left: 10px;
+}
+#lista{
+    background-color: white;
+    margin-left: 25px;
+    display: inline;
+    margin-right: auto;
+    margin-top: 0%;
+}
+#ferra{
+    background-color: red;
+    justify-items: center;
+    text-align: center;
+    
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
+#minis{
+    background-color: black;
+}
+

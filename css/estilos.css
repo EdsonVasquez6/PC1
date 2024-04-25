@@ -1,0 +1,30 @@
+body{
+    background-color: #dddddd;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#ferrari{
+    background-color: white;
+    align-items: center;
+    margin-left: 15px;
+}
+#cont1{
+    border-radius: 10px;
+    display: grid;
+    background-color: white;
+}
+#lista{
+    text-align: center;
+}
+input{
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
